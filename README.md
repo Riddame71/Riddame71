@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Riddame71
+- 👀 I’m interested in Javascript & React-Native
+- 🌱 I’m currently learning React.Js & Node.js & Express.Js
+- 💞️ I’m looking to collaborate on Interesting and impactful Javascript projects 
+- 📫 You can get in touch with me @ umershahid71@gmail.com
